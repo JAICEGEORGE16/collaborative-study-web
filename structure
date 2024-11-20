@@ -1,0 +1,8 @@
+collaborative-study-platform/
+├── server.js           # Backend server code
+├── public/             # Frontend files
+│   ├── index.html      # Main HTML file
+│   ├── styles.css      # Styling
+│   └── script.js       # Frontend JS for chat functionality
+├── uploads/            # Uploaded files (auto-created)
+└── package.json        # Node.js project file
