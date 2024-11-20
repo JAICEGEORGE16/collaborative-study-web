@@ -1,0 +1,15 @@
+Run the following commands to set up the project:
+npm init -y
+npm install express multer socket.io
+
+
+Create the necessary directories:
+mkdir public uploads
+
+
+Place index.html, styles.css, and script.js in the public folder.
+
+Run the Project
+node server.js
+
+Open your browser and navigate to http://localhost:3000
